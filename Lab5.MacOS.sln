@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5.MacOS", "Lab5\Lab5.MacOS.csproj", "{B94F0150-8993-47E7-9950-A5883BFD2FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94F0150-8993-47E7-9950-A5883BFD2FEB}.Debug|x86.ActiveCfg = Debug|x86
+		{B94F0150-8993-47E7-9950-A5883BFD2FEB}.Debug|x86.Build.0 = Debug|x86
+		{B94F0150-8993-47E7-9950-A5883BFD2FEB}.Release|x86.ActiveCfg = Release|x86
+		{B94F0150-8993-47E7-9950-A5883BFD2FEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Lab5\Lab5.MacOS.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
