@@ -1,3 +1,5 @@
+<img src="https://raw.github.com/et1337/opentk-deferred-rendering/master/screenshot2.jpg" />
+
 # OpenTK Deferred Rendering Sample
 by [Evan Todd](http://et1337.wordpress.com)
 
